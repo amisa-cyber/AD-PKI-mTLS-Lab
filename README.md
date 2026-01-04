@@ -25,7 +25,6 @@ The lab simulates how internal services are secured in corporate environments.
 
 ## Technologies Used
 - Windows Server (AD, PKI)
-- OpenSSL
 - Nginx
 - Flask (Python)
 - VMware Workstation
